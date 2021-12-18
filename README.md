@@ -1,9 +1,18 @@
+___
+---
+
 <h1 align="center"><b>⚡ The Alpha-X 🔥 Whatsapp Bot 🍁</b></h1>
 <h1 align="center">~ ᴡᴏʀʟᴅ ꜰɪʀꜱᴛ ꜰᴜʟʟ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴜꜱᴇʀ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ ~</h1>
 
-<br>
 
+<div align="center">
+    
 ![logo](https://telegra.ph/file/c265e654e3ec87c78d984.jpg)
+        
+</div>
+
+---
+___
 
 ### 🔎 What is Alpha-X ?
 
@@ -95,6 +104,8 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 `• Deploy To Heroku 🚀`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot)
+
+<a href="https://alpha-x.ml/bot-help">• ғᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ</a>
 
 ---
 
@@ -331,3 +342,8 @@ This project is protected by `GNU General Public Licence v3.0` license.
 [~ SL ALPHA ~](https://github.com/SL-Alpha-X)  | [~ HansakaBro ~](https://github.com/HansakaBro) 
 BASE , BUG FIXED MODULES , DEVELOPER | BASE , BUG FIXED MODULES , DEVELOPER 
   </div>
+  
+  <h1 align="center">(C)2021 SL-Alpha-X Team</h3>
+
+---
+___
